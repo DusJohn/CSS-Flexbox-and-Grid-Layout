@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-size: cover;
+}
+
+.reddish {
+    background-color: #eb5020;
+    grid-column: 1/3;
+}
+
+.yellowish {
+    background-color: #ffa401;
+}
+
+.greenish {
+    background-color: #05aa42;
+    grid-row: ;
+}
+
+/* .nested {
+    background-color: black;
+} */
+
+.blueish-1 {
+    background-color: #01aefd;
+}
+
+.blueish-2 {
+    background-color: #00aefb;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 0.5fr 1fr;
+    grid-template-rows: 150px 1fr 1fr 150px;
+    margin: 20% 25% 20% 10%;
+    gap: 1em;
+}
+
+.blueish {
+    display: flex;
+    flex-direction: column;
+}
