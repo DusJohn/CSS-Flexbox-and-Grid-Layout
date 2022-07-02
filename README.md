@@ -4,7 +4,7 @@ Hi, i'm Dus John
 This is my Zuri CSS Flexbox and Grid Assignment
 
 ## Flex Box Work Link
-https://github.com/DusJohn/CSS-Flexbox-and-Grid-Layout/tree/main/Flexbox%20Work
+[Flex Box Work Link](https://github.com/DusJohn/CSS-Flexbox-and-Grid-Layout/tree/main/Flexbox%20Work)
 
 ## Grid Work Link
-https://github.com/DusJohn/CSS-Flexbox-and-Grid-Layout/tree/main/Grid%20Work
+[Grid Work Link](https://github.com/DusJohn/CSS-Flexbox-and-Grid-Layout/tree/main/Grid%20Work)
